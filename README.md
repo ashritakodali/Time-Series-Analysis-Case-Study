@@ -1,14 +1,14 @@
 # S&P 500 Times Series Analysis - Case Study
 
 ## 1. Repository Contents
-This repository contains all of the necessary files and scripts for conducting a case study analysis of the S&P 500.  The data can be found in the [S&P 500 website](https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview) and the data should be filtered to include the prices from January 30th, 2015 to February 21st, 2025. The hook document outlining the case study is in the following file: [S&P 500 Hook Document](https://github.com/ashritakodali/Time-Series-Analysis-Case-Study/blob/main/S%26P%20500%20Hook%20Document.pdf). The [S&P 500 Analysis Rubric](https://github.com/ashritakodali/Time-Series-Analysis-Case-Study/blob/main/S%26P%20500%20Analysis%20Rubric.pdf) outlines more information about submission requirements, final deliverables, and goals. 
+This repository contains all of the necessary files and scripts for conducting a case study analysis of the S&P 500.  The data can be found in the [S&P 500 website](https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview) and the data should be filtered to include the prices from January 30th, 2015 to February 21st, 2025. The hook document outlining the case study is in the following file: [S&P 500 Hook Document](https://github.com/ashritakodali/Time-Series-Analysis-Case-Study/blob/main/S%26P%20500%20Hook%20Document.pdf). The [S&P 500 Analysis Rubric](https://github.com/ashritakodali/Time-Series-Analysis-Case-Study/blob/main/S%26P%20500%20Analysis%20Rubric.pdf) outlines more information about submission requirements, final deliverables, and goals. The data can be found in the corresponding [data folder](https://github.com/ashritakodali/Time-Series-Analysis-Case-Study/tree/main/DATA); however, it should be imported from the S&P 500 website. The scripts are located in the [scripts folder](https://github.com/ashritakodali/Time-Series-Analysis-Case-Study/tree/main/SCRIPTS). The technical output examples are located in the [output folder](https://github.com/ashritakodali/Time-Series-Analysis-Case-Study/tree/main/OUTPUT) of the respository. Finally, if any reference materials are required, they will be found in the [reference material folder](https://github.com/ashritakodali/Time-Series-Analysis-Case-Study/tree/main/REFERENCE%20MATERIALS)
 
 ## 2. Software and Platform
 
 ### Programming Languages and Software
 - **R**: For data preprocessing, model assumption testing, developing and evaluating the ARIMA and GARCH models
 
-## 3. Case Folder Structure
+## 3. Case Study Repository Folder Structure
 
 ```
 📂 S&P-500-Times-Series-Analysis  
